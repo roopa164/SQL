@@ -1,8 +1,3 @@
-https://www.interviewquery.com/questions/customer-orders
-
-
-  
-  
 //step1) create column to identify given transaction is 2019 or 2020
 //step 2) use group by to count number of transaction should be greater than 3
 
